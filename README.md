@@ -15,7 +15,7 @@
 - 🧰 [COASTGUARD](https://github.com/fmemuir/COASTGUARD)
   - 🛠️ [VedgeSat](https://github.com/fmemuir/COASTGUARD/blob/master/VedgeSat_Driver_EXAMPLE.py)
   - 🛠️ [Coastal Change Timeseries Plotting Routines](https://github.com/fmemuir/COASTGUARD/blob/master/Toolshed/Plotting.py)
-  - 🛠️ [Fancy Seaborn Stats Plotting Routines](https://github.com/fmemuir/COASTGUARD/blob/master/Toolshed/PlottingSeaborn.py)
+  - 🛠️ [Fancy Seaborn Stats Plotting Routines](https://github.com/fmemuir/COASTGUARD/blob/master/Toolshed/PlottingSeaborn.py) (as seen in [this paper](https://doi.org/10.1002/esp.5835)!)
   - 🛠️ [Calculating Wave Diffusivity and Instability from Copernicus Marine Service Data](https://github.com/fmemuir/COASTGUARD/blob/master/Toolshed/Waves.py)
   - 🛠️ [Cross-shore Transect Creation and Intersection with Coastal Change Metrics](https://github.com/fmemuir/COASTGUARD/blob/master/Toolshed/Transects.py)
 
